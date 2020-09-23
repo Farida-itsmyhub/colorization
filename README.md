@@ -11,3 +11,4 @@
 На маленькой выборке:
 ![image](https://user-images.githubusercontent.com/48317053/94053172-6a44de80-fdf3-11ea-890e-f4ff2f3ed7fc.png)
 На большой выборке:
+![image](https://user-images.githubusercontent.com/48317053/94053479-d32c5680-fdf3-11ea-9f63-70d3421e68f3.png)
